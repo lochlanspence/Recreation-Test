@@ -101,3 +101,7 @@ iframe {
     }
 
 }
+
+a:hover {
+    color: black;
+}
